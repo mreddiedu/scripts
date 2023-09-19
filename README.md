@@ -1,4 +1,6 @@
 # scripts
 My personal script repo to speed up process
 
-## Test
+## GitHub Script
+How to Create a New Repo 
+- 
