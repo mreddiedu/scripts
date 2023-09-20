@@ -1,0 +1,8 @@
+#sets the hostname
+Cmd: sudo hostnamectl set-hostname bf2_3
+
+Before executing above cmd, we have:
+[edu01@some_random_name]
+
+After executing cmd, we have:
+[edu01@bf2_3]
