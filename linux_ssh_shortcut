@@ -1,0 +1,9 @@
+#Setting default ssh host on Linux
+1. sudo vim /etc/hosts
+2. inside hosts file, this file is the DNS resolver for linux:
+
+ #ows instances
+ <ip-name> tab   <alias>
+ 10.93.68.147    bf2_1
+ 10.93.68.227    bf2_2
+ 10.93.70.168    bf2_3
