@@ -1,0 +1,15 @@
+#Create alias to substitute long commands
+
+1. vim ~/.bashrc
+2. Go to end of file, then add aliases:
+
+134 # Example aliases
+135 # alias bashconfig="mate ~/.bashrc"
+136 # alias ohmybash="mate ~/.oh-my-bash"
+137 alias ows1="ssh bf2_1"
+138 alias ows2="ssh bf2_2"
+139 alias ows3="ssh bf2_3"
+
+3. Ensure it works file 
+   a. Issue #1: remote1 doesn't work, make sure source ~/.bashrc is ran (you can configure this automatically in iterm2: Preferences > Profile name > Send text at start
+
