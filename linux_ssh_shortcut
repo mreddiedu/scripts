@@ -8,4 +8,6 @@
  10.93.68.227    bf2_2
  10.93.70.168    bf2_3
 
-3. ssh bf2_1
+3. ssh bf2_1 
+
+4. use linux alias to even shorten command more... 
